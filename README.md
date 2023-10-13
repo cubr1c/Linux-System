@@ -6,3 +6,6 @@ My First Fork
 
 I'm so hungry
 =============
+
+I love my class
+--------------
